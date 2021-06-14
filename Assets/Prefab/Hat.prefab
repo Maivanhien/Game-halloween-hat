@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5671225450313234513
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5671225450313234516}
+  - component: {fileID: 5671225450313234519}
+  - component: {fileID: 5671225450313234518}
+  - component: {fileID: 6550613719731943260}
+  m_Layer: 0
+  m_Name: Hat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5671225450313234516
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5671225450313234513}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.74, y: -0.32, z: 90}
+  m_LocalScale: {x: 0.75, y: 0.7, z: 0.75}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &5671225450313234519
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5671225450313234513}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300036, guid: 6c98b4095dc20544cb0d1a08f47d19e4, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.01, y: 2.5}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &5671225450313234518
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5671225450313234513}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 45c5f99fad26efd41bb9508547648a25, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &6550613719731943260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5671225450313234513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc41fd54971eb6d438858e900b87abc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coin: {fileID: 8052514037573734126, guid: a67a831eb2c21de4eaec2076b553a898, type: 3}
+  crow: {fileID: 3151903150956096005, guid: ba9f39a9d6564694d8f144eda353c261, type: 3}
+  pumkin: {fileID: 3950501065268423015, guid: 483eb4a987dc2ec42b80e4b6c433dc98, type: 3}
+  bomb: {fileID: 7358567395027422968, guid: 497da9443b4ee8a45a0e3099767fd8a4, type: 3}
+  ball: {fileID: 1044158422581466975, guid: 90e2b470c9b76e744a18eb396623f764, type: 3}
+  thanChet: {fileID: 166490093271983928, guid: 4e28cbb068d755443b6a8342da2fa0f1, type: 3}
+  doi: {fileID: 664178369252710227, guid: 0aacc546a2336fd41a1ed17eabb4bef2, type: 3}
+  Monster: {fileID: 3473236384705696699, guid: 375522b1e3bd80742874a61c2be6fd13, type: 3}
+  hoDen: {fileID: 386307352678731987, guid: 58c4ba3bb76a7404e92fbcc37ce4f18b, type: 3}
+  kySiXanh: {fileID: 9126446031716607614, guid: a7c3e86ece17cbc4bad95165717db9c1,
+    type: 3}
+  kySiVang: {fileID: 8824422329284421632, guid: 3bffc52d70e9fd644b04056a31ecd82b,
+    type: 3}
+  thorBua: {fileID: 3548808550080308445, guid: fd326bfe5ebfe014d95771e7c5b2b410, type: 3}
+  supperman: {fileID: 6291560796644179894, guid: 72b81204b2521324ea04fe4f314812c4,
+    type: 3}
+  heart: {fileID: 310973714124702761, guid: eed5fbf41f4378e449dcb480dc7c8aae, type: 3}
+  bongBlue: {fileID: 5419518698061535972, guid: 30df8e3adf3868f4f943557163ece550,
+    type: 3}
+  bongGreen: {fileID: 7300935555194936749, guid: 669e2a4a81a75324982984044e51a062,
+    type: 3}
+  bongRed: {fileID: 8163643957422681738, guid: e60b52e15bfa91d4fb66d78fcbfa73a4, type: 3}
+  bongYellow: {fileID: 3351746681943511135, guid: ed6898c3d1c57c44b8da1daed765540d,
+    type: 3}
+  bongPumkin: {fileID: 7946841416693008505, guid: c2c750354b4f17e47aff579243dc6b54,
+    type: 3}
+  bongBall: {fileID: 3119593751704569541, guid: d32b6ab21cc47704ca1c9e1fe7e08403,
+    type: 3}
+  bongCrow: {fileID: 2632171249505713236, guid: 8f09f603b58da9b4caa966611995741a,
+    type: 3}
+  bongThor: {fileID: 302112801789581581, guid: f0a7f4e105d3b27439d36cdbd9546762, type: 3}

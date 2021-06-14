@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0b5d96fb59ac44646b17ba06d6f04d14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dieAudio: {fileID: 3897596125478160740, guid: 9a7fc3800036dbc4c9aeed058f3d0eed,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: ce9231a0308ae89489843d5002c2ea10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6561369333981874178
+    second: Bonghiepsi_0
+  - first:
+      213: 5611773186389212826
+    second: Bonghiepsi_1
+  - first:
+      213: -6336844108639825750
+    second: Bonghiepsi_2
+  - first:
+      213: 6419984619341682895
+    second: Bonghiepsi_3
+  - first:
+      213: -4055986862634775997
+    second: Bonghiepsi_4
+  - first:
+      213: -9056291902483985393
+    second: Bonghiepsi_5
+  - first:
+      213: 3331453253748714344
+    second: Bonghiepsi_6
+  - first:
+      213: 2575551978189338819
+    second: Bonghiepsi_7
+  - first:
+      213: -8261845227894341485
+    second: Bonghiepsi_8
+  - first:
+      213: -3313473816477878201
+    second: Bonghiepsi_9
+  - first:
+      213: 1629956380537169285
+    second: Bonghiepsi_10
+  - first:
+      213: 2487032097553144385
+    second: Bonghiepsi_11
+  - first:
+      213: 7869739685947529281
+    second: Bonghiepsi_12
+  - first:
+      213: -8515324157076423775
+    second: Bonghiepsi_13
+  - first:
+      213: -5568947325281132128
+    second: Bonghiepsi_14
+  - first:
+      213: 7723601204823218241
+    second: Bonghiepsi_15
+  - first:
+      213: -2212329439098786573
+    second: Bonghiepsi_16
+  - first:
+      213: -4797183986255163258
+    second: Bonghiepsi_17
+  - first:
+      213: -5031271744975671490
+    second: Bonghiepsi_18
+  - first:
+      213: 609364067443078296
+    second: Bonghiepsi_16
+  - first:
+      213: 880240391506957405
+    second: Bonghiepsi_20
+  - first:
+      213: 7206104259615721774
+    second: Bonghiepsi_21
+  - first:
+      213: -4960074104318586789
+    second: Bonghiepsi_22
+  - first:
+      213: -3538182655928186275
+    second: Bonghiepsi_23
+  - first:
+      213: 1483146510094792910
+    second: Bonghiepsi_24
+  - first:
+      213: -7705652037551213046
+    second: Bonghiepsi_25
+  - first:
+      213: 3874928162966426974
+    second: Bonghiepsi_26
+  - first:
+      213: -504943487673914722
+    second: Bonghiepsi_27
+  - first:
+      213: -6803384103811127721
+    second: Bonghiepsi_28
+  - first:
+      213: -5206325781275141106
+    second: Bonghiepsi_29
+  - first:
+      213: -5934002845094731344
+    second: Bonghiepsi_30
+  - first:
+      213: -6989058018044940458
+    second: Bonghiepsi_31
+  - first:
+      213: 4070795141459153652
+    second: Bonghiepsi_32
+  - first:
+      213: -8016020416243614927
+    second: Bonghiepsi_33
+  - first:
+      213: -7331507495320843476
+    second: Bonghiepsi_34
+  - first:
+      213: -2103598650488552362
+    second: Bonghiepsi_35
+  - first:
+      213: 6676238762963758250
+    second: Bonghiepsi_36
+  - first:
+      213: -7361502993609616212
+    second: Bonghiepsi_37
+  - first:
+      213: 6858720156399591812
+    second: Bonghiepsi_38
+  - first:
+      213: -454640436437852574
+    second: Bonghiepsi_39
+  - first:
+      213: 7239678144779196157
+    second: Bonghiepsi_40
+  - first:
+      213: -1346670060721285204
+    second: Bonghiepsi_41
+  - first:
+      213: 1604237651358733426
+    second: Bonghiepsi_42
+  - first:
+      213: -5161415783998168898
+    second: Bonghiepsi_43
+  - first:
+      213: 6597304337309818842
+    second: Bonghiepsi_44
+  - first:
+      213: 2878551785440748857
+    second: Bonghiepsi_45
+  - first:
+      213: 6496329553006262948
+    second: Bonghiepsi_46
+  - first:
+      213: 1754384085642934082
+    second: Bonghiepsi_47
+  - first:
+      213: 9061787703672444719
+    second: Bonghiepsi_48
+  - first:
+      213: -2576301897737675011
+    second: Bonghiepsi_49
+  - first:
+      213: -2204113934895525701
+    second: Bonghiepsi_50
+  - first:
+      213: -2124587099928715035
+    second: Bonghiepsi_51
+  - first:
+      213: 3997046017994006031
+    second: Bonghiepsi_52
+  - first:
+      213: -2274986159540923625
+    second: Bonghiepsi_53
+  - first:
+      213: -7942991423796558205
+    second: Bonghiepsi_54
+  - first:
+      213: 1640324556326339799
+    second: Bonghiepsi_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bonghiepsi_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 988
+        width: 151
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef77ed7ba5551f4a0800000000000000
+      internalID: -6561369333981874178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonghiepsi_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 994
+        width: 151
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e7ac60bf501ed40800000000000000
+      internalID: 5611773186389212826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonghiepsi_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 696
+        width: 209
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6809111c49afc6db0800000000000000
+      internalID: -4797183986255163258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonghiepsi_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 708
+        width: 188
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f4da0465e47800800000000000000
+      internalID: 609364067443078296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonghiepsi_31
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 699
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe5df13c0e10f90800000000000000
+      internalID: -6989058018044940458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

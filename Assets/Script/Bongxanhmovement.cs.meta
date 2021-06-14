@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 16b0452db6c250f408526ef0a37fb9b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dieAudio: {fileID: 3897596125478160740, guid: 9a7fc3800036dbc4c9aeed058f3d0eed,
+      type: 3}
+  - bongBlueExploded: {fileID: 4297243133702633038, guid: 8d03567e7b618024fb1a23f85a0f1288,
+      type: 3}
+  - bongBlueExplodedLon: {fileID: 1621321376129772889, guid: 852c7c51f0b97f94681d42cd8cffc2e4,
+      type: 3}
+  - bongGreenExploded: {fileID: 3856134562329643260, guid: fd121b131695c8d4cb74f49236f48e5d,
+      type: 3}
+  - bongGreenExplodedLon: {fileID: 2721649874032829346, guid: 94dc3fc6dccbf1246be894bd46d230e6,
+      type: 3}
+  - bongRedExploded: {fileID: 6034723690680327887, guid: 344786c1d4188744f8c3afa78dd90a60,
+      type: 3}
+  - bongRedExplodedLon: {fileID: 7294455479634233612, guid: 5957dc16265f56947a4d7924941c217c,
+      type: 3}
+  - bongYellowExploded: {fileID: 7184702792113012428, guid: d8533344bf3da8849a509b6fbae97584,
+      type: 3}
+  - bongYellowExplodedLon: {fileID: 8019326744375902310, guid: 6bd83cd995756c94c911dff54c6cc7d1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

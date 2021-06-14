@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 27812780a18283044bc90e9f068fbdfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hiepSiDissolve: {fileID: 1321969930969391449, guid: a61615a39ef5c594f88c6bc15c7c5715,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

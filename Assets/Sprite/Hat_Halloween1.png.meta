@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: e66253184c2821b459b09af0a540f951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5573819780197552840
+    second: Hat_Halloween1_0
+  - first:
+      213: 8711133864155572160
+    second: Hat_Halloween1_1
+  - first:
+      213: 2721122329468604109
+    second: Hat_Halloween1_1
+  - first:
+      213: 3861749616571419403
+    second: Hat_Halloween1_1
+  - first:
+      213: 2178233363130121349
+    second: Hat_Halloween1_4
+  - first:
+      213: 6534102873437188520
+    second: Hat_Halloween1_5
+  - first:
+      213: -4708494686802093581
+    second: Hat_Halloween1_6
+  - first:
+      213: 3381596222167090883
+    second: Hat_Halloween1_2
+  - first:
+      213: -1621277059530934130
+    second: Hat_Halloween1_8
+  - first:
+      213: -5199976686435663070
+    second: Hat_Halloween1_9
+  - first:
+      213: 1542564246719730454
+    second: Hat_Halloween1_10
+  - first:
+      213: -1066440596295215134
+    second: Hat_Halloween1_11
+  - first:
+      213: -5480510364408437893
+    second: Hat_Halloween1_4
+  - first:
+      213: -1605014067903735917
+    second: Hat_Halloween1_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hat_Halloween1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 632
+        width: 298
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5444756, y: 0.9621634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c298b80f8f2a5d40800000000000000
+      internalID: 5573819780197552840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Halloween1_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 331
+        width: 306
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5444756, y: 0.9621634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0c5e675e53c520800000000000000
+      internalID: 2721122329468604109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Halloween1_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 628
+        width: 313
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5444756, y: 0.9621634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b8d3bd0d0b79530800000000000000
+      internalID: 3861749616571419403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Halloween1_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 329
+        width: 299
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5444756, y: 0.9621634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6821cf8d7ddee20800000000000000
+      internalID: 3381596222167090883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Halloween1_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 299
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5444756, y: 0.9621634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a69d4cd051f3b0800000000000000
+      internalID: -5480510364408437893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Halloween1_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 17
+        width: 305
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5444756, y: 0.9621634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397d71f7538d9b9e0800000000000000
+      internalID: -1605014067903735917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
